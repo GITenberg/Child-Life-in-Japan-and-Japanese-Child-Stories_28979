@@ -1,0 +1,39 @@
+_repo: Child-Life-in-Japan-and-Japanese-Child-Stories_28979
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28979-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Ayrton, Matilda Chaplin
+    birthdate: 1846
+    deathdate: 1883
+    gutenberg_agent_id: '33617'
+    url: http://www.gutenberg.org/2009/agents/33617
+  editor:
+    agent_name: Griffis, William Elliot
+    aliases:
+    - Griffis, William Eliot
+    - Griffis, W. E. (William Elliot)
+    birthdate: 1843
+    deathdate: 1928
+    gutenberg_agent_id: '2568'
+    url: http://www.gutenberg.org/2009/agents/2568
+    wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
+description: Provides a glimpse of different aspects of child life in nineteenth century
+  Japan interwoven with some popular tales.
+gutenberg_issued: '2009-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Social life and customs'
+- !lcc 'DS'
+- !lcsh 'Fairy tales -- Japan'
+- !lcsh 'Children -- Japan'
+title: Child-Life in Japan and Japanese Child Stories
+url: http://www.gutenberg.org/ebooks/28979
