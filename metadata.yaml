@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Elliot_Griffis
 description: Provides a glimpse of different aspects of child life in nineteenth century
   Japan interwoven with some popular tales.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28979#Child-Life-in-Japan-and-Japanese-Child-Stories
 gutenberg_issued: '2009-05-28'
 gutenberg_type: Text
 identifiers:
